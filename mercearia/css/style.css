@@ -1,0 +1,42 @@
+nav{
+    background-image: url(../img/mercearia.jpeg);
+    height: 600px;
+    background-position: center ;
+    background-size: cover;
+}
+.titulo{
+    padding-top: 230px;
+    padding-left: 50px;
+    color: white;
+    
+}
+.au{
+    font-size: 60px;
+}
+.dis{
+    padding-left: 60px;
+}
+main img{
+    height: 180px;
+    width: 180px;
+    margin-left: 40px;
+    display: flex;
+    padding-top: 20PX;
+}
+main{
+    display: flex;
+    gap: 50px;
+    background-color: rgb(238, 214, 178);
+}
+main p{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 50px;
+}
+footer{
+    display: flex;
+    gap: 60px;
+    padding: 100px;
+    background-color: rgb(247, 232, 210);
+}
